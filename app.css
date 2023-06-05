@@ -1,0 +1,11 @@
+.image-giphy {
+    width: 300px !important;
+    height: 400px !important;
+    margin: 10px;
+
+ }
+
+form {
+    display: flex;
+    justify-content: center;
+}
